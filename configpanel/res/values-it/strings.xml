@@ -16,14 +16,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- O-Touch settings -->
-  <string name="touchpad_enable_title">Attiva O-Touch</string>
-  <string name="touchpad_enable_summary">Touchpad posteriore per navigazione telefono</string>
-  <string name="touchpad_long_press_title">Pressione prolungata avvia fotocamera</string>
-  <string name="touchpad_long_press_summary">Premere a lungo il touchpad avvierà l\'app della fotocamera</string>
-  <string name="touchpad_double_tap_title">Doppio tocco per scattare</string>
-  <string name="touchpad_double_tap_summary">Quando la fotocamera è avviata, tocca due volte per scattare foto</string>
-  <!-- Gesture shortcuts -->
   <string name="touchscreen_camera_gesture_title">Fotocamera</string>
   <string name="touchscreen_camera_gesture_summary">Disegnare un cerchio per attivare la fotocamera</string>
   <string name="touchscreen_music_gesture_title">Musica</string>
